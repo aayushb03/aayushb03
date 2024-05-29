@@ -1,11 +1,11 @@
 # Hi There 👋
-My name is Aayush Bharadwaj, and I am a junior at the University of Wisconsin - Madison. I am currently pursuing a B.S. in Computer Sciences and a B.S. in Economics with Mathematical Emphasis.
+My name is Aayush Bharadwaj, and I am an incoming senior at the University of Wisconsin - Madison. I am currently pursuing a B.S. in Computer Sciences, Data Science, and Economics with Mathematical Emphasis.
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,ts,js,html,css,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,ts,js,html,css,c,r,mysql)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,bootstrap,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,dotnet,bootstrap,nodejs)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,azure,bash,idea,visualstudio,vscode)](https://skillicons.dev)
