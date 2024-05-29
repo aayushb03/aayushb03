@@ -10,6 +10,6 @@ My name is Aayush Bharadwaj, and I am a junior at the University of Wisconsin - 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,azure,bash,idea,visualstudio,vscode)](https://skillicons.dev)
 
-<!-- ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=landerson02&show_icons=true&theme=react&&hide_border=true) -->
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=aayushb03&show_icons=true&theme=react&&hide_border=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushb03&layout=donut)](https://github.com/aayushb03/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushb03&layout=donut)](https://github.com/aayushb03/github-readme-stats)
